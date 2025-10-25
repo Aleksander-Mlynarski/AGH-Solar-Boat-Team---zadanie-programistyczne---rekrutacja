@@ -1,5 +1,6 @@
 #include "zadanie.h"
 #include <iostream>
+
 globalna_pozycja Pozycja::licz(
     double gl_x,
     double gl_y,
