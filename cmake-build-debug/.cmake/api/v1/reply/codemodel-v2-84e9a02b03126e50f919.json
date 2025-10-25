@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Transformacja",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "transformacja_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-transformacja_exe-Debug-98d50e1cf3c5944546e3.json",
+					"name" : "transformacja_exe",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/alekm/Documents/GitHub/AGH-Solar-Boat-Team---zadanie-programistyczne---rekrutacja/cmake-build-debug",
+		"source" : "C:/Users/alekm/Documents/GitHub/AGH-Solar-Boat-Team---zadanie-programistyczne---rekrutacja"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
