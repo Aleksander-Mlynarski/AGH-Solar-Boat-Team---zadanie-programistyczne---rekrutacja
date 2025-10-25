@@ -1,7 +1,6 @@
 # ninja log v6
-15	381	7831202140702084	CMakeFiles/transformacja_exe.dir/zadanie.cpp.obj	15d57740dc8e8e26
-6	371	7831202264360684	CMakeFiles/transformacja_exe.dir/main.cpp.obj	535343d4371fd836
-2	238	7831208483984233	build.ninja	bcd69c1c58aedf96
 25	344	7831208495733728	CMakeFiles/transformacja_exe.dir/src/zadanie.cpp.obj	3a3009d37cf2d9c1
-3	345	7831208495520097	CMakeFiles/transformacja_exe.dir/main.cpp.obj	3265aa2332cb4b0d
+15	381	7831202140702084	CMakeFiles/transformacja_exe.dir/zadanie.cpp.obj	15d57740dc8e8e26
 345	443	7831208498943104	transformacja_exe.exe	d36037acba9213ee
+3	345	7831208495520097	CMakeFiles/transformacja_exe.dir/main.cpp.obj	3265aa2332cb4b0d
+1	226	7831214699203091	build.ninja	bcd69c1c58aedf96
