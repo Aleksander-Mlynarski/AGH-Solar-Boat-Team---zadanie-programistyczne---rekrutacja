@@ -2,6 +2,7 @@
 #define ZADANIE_H
 
 #include <cmath>
+
 class globalna_pozycja //klasa w której przechowuje pozycje
 {
 public:
