@@ -1,6 +1,7 @@
 #include <iostream>
 #include "zadanie.h"
 #include <cmath>
+
 int main()
 {
     Pozycja p;
